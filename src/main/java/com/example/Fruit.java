@@ -29,6 +29,12 @@ public class Fruit {
     }
 
 
+    @Override
+    public String toString() {
+        return "Fruit [id=" + id + ", name=" + name + ", price=" + price + ", quantity=" + quantity + "]";
+    }
+
+
     public int getId() {
         return id;
     }
