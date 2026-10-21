@@ -31,3 +31,7 @@ FriutView.java
 	printFruits(List<Fruit> fruitList)
 
 FruitController.java
+
+## prodec
+
+Gyümölcsök megejelenítése adatbázisból
